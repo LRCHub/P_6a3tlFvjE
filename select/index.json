@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "華麗なるスペクタクル",
+  "base_artist": "るる",
+  "createdAt": "2026-02-07T07:02:04.340707Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "華麗なるスペクタクル",
+      "artist": "るる",
+      "has_synced": false,
+      "path": "select/pl_01_華麗なるスペクタクル_るる.txt"
+    }
+  ]
+}
